@@ -1,6 +1,4 @@
-## Atomic Giants
-
-Coming soon...
+## Coming soon...
 
 <!--
 ### Markdown
